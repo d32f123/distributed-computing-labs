@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "communicator.h": "c",
+        "includes.h": "c"
+    }
+}

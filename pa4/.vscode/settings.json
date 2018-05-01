@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "includes.h": "c",
+        "common.h": "c",
+        "pa2345.h": "c",
+        "ipc.h": "c",
+        "communicator.h": "c",
+        "types.h": "c"
+    }
+}
